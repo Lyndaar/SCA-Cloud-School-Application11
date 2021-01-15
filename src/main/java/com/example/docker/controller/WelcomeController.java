@@ -8,6 +8,6 @@ public class WelcomeController {
 
     @RequestMapping("/welcome")
     public String WelcomeSCA(){
-        return "Welcome to SCA Cloud School Application";
+        return "Welcome to SCA Cloud School Application, this is my first assessment.";
     }
 }
